@@ -47,6 +47,12 @@ showCarName("")
 </pre>
 
 
+<h4> nodemon dependency </h4>
+<pre>
+instead of need to write node app.js to start spesific file u shlould use nodemon
+espacially in dev env
+</pre>
+
 <pre>
 
 </pre>
