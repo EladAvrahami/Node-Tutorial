@@ -50,7 +50,7 @@ showCarName("")
 <h4> nodemon dependency </h4>
 <pre>
 instead of need to write node app.js to start spesific file u shlould use nodemon
-espacially in dev env
+especially in dev env
 </pre>
 
 <pre>
@@ -65,5 +65,7 @@ cntrl+ c
 
 copy line shortcut:
 alt+shift+arrowDown/UP
+
+npm uninstall packageName
 </pre>
->>>>>>> e47ab0d9ebd5f180db99b26c2cb03158e779e392
+
