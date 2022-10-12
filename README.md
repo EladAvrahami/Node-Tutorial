@@ -53,12 +53,17 @@ instead of need to write node app.js to start spesific file u shlould use nodemo
 especially in dev env
 </pre>
 
+<h4> Event loop</h4>
 <pre>
 
 </pre>
 
 
-Keboard shorcuts 
+<pre>
+
+</pre>
+
+Keyboard shortcuts 
 <pre>
 Terminat process :
 cntrl+ c
